@@ -33,7 +33,7 @@ const App: () => React$Node = () => {
               name: 'Kamal', // Mandatory
               prefill: { // Optional
                 email: 'kamal@test.com',
-                contact: '9962029335',
+                contact: '9962123456',
                 name: 'Amazon app'
               },
               theme: { color: '#F37254' } // Optional
